@@ -12,7 +12,7 @@
   * [Building a pirate radio station with WebRTC](https://github.com/mikeal/jsfest2014-cfp/issues/15) @brianloveswords
   * [Hyperaudio - Weaving Audio into the Fabric of the Web](https://github.com/mikeal/jsfest2014-cfp/issues/59) @maboa
   * [Javascripting at the Murder Cabin](https://github.com/mikeal/jsfest2014-cfp/issues/22) @nvcexploder
-* Closing Talk
+ * Closing Talk
   * @rockbot
 
 ### Scaling Up and Down
