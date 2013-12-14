@@ -25,6 +25,6 @@
   * [Build Rudimentary 3D Engine with JavaScript and SVG](https://github.com/mikeal/jsfest2014-cfp/issues/11)	@matthiasak	
   * NPM Up and Down @isaacs	
  * Act 3 ()
-  * [http the web framework](https://github.com/mikeal/jsfest2014-cfp/issues/50)	@raynos	
-  * [Building Offline First Apps Today](https://github.com/mikeal/jsfest2014-cfp/issues/36)
-  * [OpenROV js under water](https://github.com/mikeal/jsfest2014-cfp/issues/44)	@pchristensen	
+  * [http the web framework](https://github.com/mikeal/jsfest2014-cfp/issues/50) @raynos	
+  * [Building Offline First Apps Today](https://github.com/mikeal/jsfest2014-cfp/issues/36) @jkleinsc
+  * [OpenROV js under water](https://github.com/mikeal/jsfest2014-cfp/issues/44) @pchristensen	
