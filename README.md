@@ -6,8 +6,8 @@
   * [Pixel Art on the Wall](https://github.com/mikeal/jsfest2014-cfp/issues/27) @foldi	
   * [Taking over the NES with JavaScript](https://github.com/mikeal/jsfest2014-cfp/issues/29) @emkay	
  * Act 2 (The modular frontend)		
-  * [testing for the browser and the server](https://github.com/mikeal/jsfest2014-cfp/issues/3) @substack	
   * [Evolution of a graph](https://github.com/mikeal/jsfest2014-cfp/issues/43) @anvaka	
+  * [testing for the browser and the server](https://github.com/mikeal/jsfest2014-cfp/issues/3) @substack	
  * Act 3 (The future is now)		
   * [Building a pirate radio station with WebRTC](https://github.com/mikeal/jsfest2014-cfp/issues/15) @brianloveswords
   * [Hyperaudio - Weaving Audio into the Fabric of the Web](https://github.com/mikeal/jsfest2014-cfp/issues/59) @maboa
