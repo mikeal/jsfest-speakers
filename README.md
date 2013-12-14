@@ -1,4 +1,4 @@
-# JSFest Speakers Repo
+# JSFest Speakers
 
 ### Evolution of Experience
 
