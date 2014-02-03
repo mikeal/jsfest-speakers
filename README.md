@@ -11,7 +11,7 @@
  * Act 3 (The Future Is Now)		
   * [Building a pirate radio station with WebRTC](https://github.com/mikeal/jsfest2014-cfp/issues/15) @brianloveswords
   * [Hyperaudio - Weaving Audio into the Fabric of the Web](https://github.com/mikeal/jsfest2014-cfp/issues/59) @maboa
-  * [Javascripting at the Murder Cabin](https://github.com/mikeal/jsfest2014-cfp/issues/22) @nvcexploder
+  * CNC :) @tmpvar
  * Closing Talk
   * @rockbot
 
@@ -29,3 +29,5 @@
   * [http the web framework](https://github.com/mikeal/jsfest2014-cfp/issues/50) @raynos	
   * [Building Offline First Apps Today](https://github.com/mikeal/jsfest2014-cfp/issues/36) @jkleinsc
   * [OpenROV js under water](https://github.com/mikeal/jsfest2014-cfp/issues/44) @pchristensen	
+ * Closing Talk
+  * @ednapiranha
